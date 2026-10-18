@@ -5,7 +5,7 @@
 ### What the QSL Template editor really is
 
 - The QSL Template editor is a tool that allows you to design a custom QSL card to send to another station after a radio contact (QSO). You can personalize the card with your own text, images, and other design elements.
-- The preview button at https://hs50.hamsphere.com/qsledit.php does not show a live comment you type somewhere. Instead, it displays a fixed placeholder example ("TNX FER QSO"), which is classic amateur radio shorthand for "Thanks for the contact."
+- The preview button at [https://hs50.hamsphere.com/qsledit.php](https://hs50.hamsphere.com/qsledit.php) does not show a live comment you type somewhere. Instead, it displays a fixed placeholder example ("TNX FER QSO"), which is classic amateur radio shorthand for "Thanks for the contact."
     - This shorthand comes from the early days of Morse code (CW), when operators shortened words to tap out messages faster:  
     **TNX**: Phonetic shorthand for "Thanks."  
     **FER**: Phonetic shorthand for "for" (in Morse code, E is a single dot . and O is three dashes ---, making FER faster to send than FOR).  
@@ -39,3 +39,5 @@
 - Checking Equipment Performance: By looking at the signal report (RST) alongside the power and antenna details written in the comment section, operators can tell how well their radio and antenna setup is performing.
 - Collecting Souvenirs! Just like real-world ham radio operators collect paper QSL postcards from around the globe, HamSphere operators design creative cards and collect them from different countries, islands, and special events.
 
+### See also
+- Edition Carte QSL HamSphere: [https://youtu.be/k48Zjwd_eOA](https://youtu.be/k48Zjwd_eOA)
